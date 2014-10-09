@@ -29,7 +29,7 @@ else:
 if months == "01":
           months = "January"
 if months == "02":
-          months = "Febuary"
+          months = "February"
 if months == "03":
           months = "March"
 if months == "04":
